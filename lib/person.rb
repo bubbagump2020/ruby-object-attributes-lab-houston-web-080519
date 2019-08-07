@@ -2,7 +2,7 @@ class Person
   def name=(individual)
     @name = individual
   end
-  def person_name
+  def name
     @name
   end
   
