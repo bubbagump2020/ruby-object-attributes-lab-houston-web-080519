@@ -6,10 +6,10 @@ class Person
     @name
   end
   
-  def career=(person_job)
+  def job=(person_job)
     @job = person_job
   end
-  def career
+  def job
     @job
   end
   
